@@ -1,0 +1,35 @@
+====Design Patterns @ 5.30 PM | Mr. Nataraj=======
+Day-1: https://youtu.be/VCjeaqj1S-E
+Day-2: https://youtu.be/RELW_mMAGn4
+Day-3: https://youtu.be/ShGx1PcXFiA
+Day-4: https://youtu.be/eg-rVYFB9nw
+Day-5: https://youtu.be/0oZTm33fqC4
+Day-6 https://youtu.be/mry5rqc_8sQ
+Day-7: https://youtu.be/p_a437rVAV8
+
+
+=====  java  annotation fundamentals ==========
+https://www.youtube.com/watch?v=2t22AjtbyEY&t=25s
+https://www.youtube.com/watch?v=-bGWDg91vR4&t=41s
+
+==============Java Bean vedios =============
+https://www.youtube.com/watch?v=io2TciOcF2Y
+https://www.youtube.com/watch?v=GOvak6awDrI&t=161s
+
+====resume preparation and interview tips====
+https://www.youtube.com/watch?v=mLrsZj088I0
+
+====> do u know IT industry ==========
+https://www.youtube.com/watch?v=H2rR5ZMLXcU&t=5s
+
+===== lombok api==================
+https://www.youtube.com/watch?v=4hlnLkwgxig&list=RDCMUC4o8Fdpv3g_AjgShAeivqpA&index=1
+https://www.youtube.com/watch?v=e1_9uPJ31Lw&list=RDCMUC4o8Fdpv3g_AjgShAeivqpA&index=2
+
+
+
+
+
+
+
+
